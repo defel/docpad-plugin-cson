@@ -29,6 +29,9 @@ tags: cson, json, dev, example
 }
 ```
 
+Then open http://localhost:9778/example.json in your browser.
+
+
 ## Dependencies
 
 - [CSON](https://github.com/bevry/cson) 
